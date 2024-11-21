@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Amour Amour, votre café de quartier à Lyon, avec des produits locaux et faits maison.">
+    <title>Amour Amour - Café à Lyon</title>
+    
+    <!-- Inclure Swiper CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
+    <!-- Importer la police TT Ramillas -->
+    <style>
+        @font-face {
+            font-family: 'TT Ramillas';
+            src: url('fonts/TT Ramillas Trial Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        body {
+            font-family: 'TT Ramillas', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fcfcef; /* Crème */
+            color: #282728; /* Gris anthracite */
+            line-height: 1.6;
+            padding-top: 160px; /* Ajuster pour éviter le chevauchement avec l'en-tête */
+        }
+        
+        /* Header fixe en haut de la page */
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            text-align: center;
+            padding: 20px 20px;
+            background-color: #8e9a7e; /* Vert moyen */
+            color: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre */
+        }
+
+        /* Image dans le header */
+        header img {
+            max-width: 300px; /* Taille similaire au titre précédent */
+            height: auto;
+        }
+
+        /* Style de la phrase */
+        p.subtitle {
+            color: #fbf6e7; /* Couleur #fbf6e7 */
+            margin: 2px 0 0 0; /* Réduire encore l'espace entre l'image et la phrase */
+        }
+
+        /* Bandeau de navigation */
+        .nav-banner {
+            background-color: #fcfcef; /* Crème */
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            top: 100px; /* Positionné juste en dessous du header */
+            width: 100%;
+            z-index: 1010; /* S'assurer qu'il est au premier plan */
+        }
+
+        /* Liens de navigation */
+        .nav-banner a {
+            margin: 0 15px;
+            color: #313727; /* Vert foncé */
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: color 0.3s ease;
+        }
+
+        .nav-banner a:hover {
+            color: #c8d4b7; /* Vert clair */
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+
+        h2 {
+            font-size: 2rem;
+            margin: 20px 0;
+        }
+
+        section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .cta-button {
+            background-color: #8e9a7e; /* Vert moyen */
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .cta-button:hover {
+            background-color: #7b8a6c;
+        }
+
+        footer {
+            background-color: #282728; /* Gris anthracite */
+            color: #f1ede5; /* Gris beige */
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        a.contact-link {
+            color: #313727; /* Vert foncé */
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        a.contact-link:hover {
+            color: #c8d4b7; /* Vert clair */
+        }
+
+        /* Styles pour le diaporama */
+        .swiper-container {
+            width: 100%;
+            height: 600px;
+            margin-top: 10px; /* Espace ajouté sous le header */
+        }
+
+        .swiper-slide {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .swiper-slide img {
+            width: 100%;
+            height: auto;
+            max-height: 600px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+
+        /* Flèches en gris anthracite, positionnées au centre de la hauteur */
+        .swiper-button-next,
+        .swiper-button-prev {
+            color: #282728; /* Gris anthracite */
+            top: 50%;
+            transform: translateY(-50%); /* Centrer verticalement */
+            width: 44px;
+            height: 44px;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .cta-button {
+                padding: 10px 20px;
+                font-size: 1rem;
+            }
+
+            .swiper-container {
+                height: 250px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <!-- Remplacer le titre par l'image -->
+    <img src="images/amour_amour.png" alt="Amour Amour logo">
+    <p class="subtitle">Votre café de quartier au 🤍 des pentes</p>
+</header>
+
+<!-- Bandeau de navigation -->
+<div class="nav-banner">
+    <a href="#menu">Menu</a>
+    <a href="#produits">Produits Locaux</a>
+    <a href="#localisation">Où Nous Trouver</a>
+    <a href="#avis">Avis</a>
+    <a href="#contact">Contact</a>
+</div>
+
+<section id="diaporama">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/photo1.jpg" alt="Description de la photo 1"></div>
+            <div class="swiper-slide"><img src="images/photo2.jpg" alt="Description de la photo 2"></div>
+            <div class="swiper-slide"><img src="images/photo3.jpg" alt="Description de la photo 3"></div>
+        </div>
+        <!-- Boutons de navigation -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+</section>
+
+<section id="menu">
+    <h2>Notre Menu</h2>
+    <p>Une sélection de boissons et plats faits maison avec des ingrédients locaux.</p>
+    <button class="cta-button">Voir le menu</button>
+</section>
+
+<section id="produits">
+    <h2>Produits Locaux</h2>
+    <p>Nous collaborons avec des producteurs locaux pour vous offrir des produits frais.</p>
+</section>
+
+<section id="localisation">
+    <h2>Où Nous Trouver</h2>
+    <p>12 rue Amour, 69001 Lyon</p>
+</section>
+
+<section id="avis">
+    <h2>Avis Clients</h2>
+    <p>« Un café chaleureux avec des produits délicieux ! »</p>
+    <p>« Une vraie pépite à Lyon. »</p>
+</section>
+
+<section id="contact">
+    <h2>Contactez-nous</h2>
+    <p>Email : <a class="contact-link" href="mailto:contact@amouramour-cafe.com">contact@amouramour-cafe.com</a></p>
+    <p>Téléphone : <a class="contact-link" href="tel:+33478123456">04 78 12 34 56</a></p>
+</section>
+
+<footer>
+    <p>© 2024 Amour Amour - Tous droits réservés</p>
+</footer>
+
+<!-- Swiper JS -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>
+    // Initialiser Swiper
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 1,
+        spaceBetween: 10,
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        loop: true,
+        autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+        },
+    });
+</script>
+
+</body>
+</html>
