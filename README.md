@@ -154,6 +154,7 @@ La chute visible a partir de decembre 2025 correspond a la fermeture du restaura
 ### Sitemap XML
 - URL soumise : https://petite-pension.fr/sitemap_index.xml
 - Soumis le : 30 juillet 2025
+- Entreprise liquidée le : 12 décembre 2025
 - Derniere lecture Google : 27 mai 2026
 - Pages decouvertes : 13
 - Statut : Operation effectuee
