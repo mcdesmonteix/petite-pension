@@ -5,6 +5,8 @@ Realise avec WordPress + Elementor.
 
 Site en ligne : https://petite-pension.fr
 
+> Note : Le restaurant a ferme ses portes le 12 decembre 2025. Les statistiques ci-dessous refletent l activite du site pendant sa periode d exploitation (juillet 2024 - decembre 2025).
+
 ---
 
 ## Apercu du site
@@ -35,6 +37,23 @@ Site en ligne : https://petite-pension.fr
 
 ### Dashboard Yoast SEO
 ![Yoast SEO](photos/yoast-seo.jpg)
+
+---
+
+## Google Search Console
+
+### Performances sur 16 mois (fev 2025 - mai 2026)
+La chute visible a partir de decembre 2025 correspond a la fermeture du restaurant.
+![Performances 16 mois](photos/gsc-performances-16mois.jpg)
+
+### Detail des 4 metriques cles
+![Metriques performances](photos/gsc-performances-metriques.jpg)
+
+### Requetes les plus frequentes
+![Requetes principales](photos/gsc-requetes.jpg)
+
+### Sitemap XML soumis a Google
+![Sitemap XML](photos/gsc-sitemap.jpg)
 
 ---
 
@@ -89,11 +108,14 @@ Site en ligne : https://petite-pension.fr
 - Design responsive (mobile, tablette, desktop)
 - Personnalisation du theme Hello Elementor
 - Menus de navigation personnalises
-- Integration icones reseaux sociaux
+- Integration icones reseaux sociaux (Instagram, Facebook, LinkedIn, Tripadvisor)
 
-### SEO
+### SEO et Google Search Console
 - Configuration Yoast SEO : titres, meta-descriptions, expressions-cles
-- Expression cle "afterwork terrasse lyon 1" positionnee en top 4 Google
+- Soumission et suivi du sitemap XML dans Google Search Console
+- Suivi des performances de recherche (clics, impressions, CTR, position)
+- Expression cle "la petite pension lyon" : 1 084 clics, CTR 41,9%, position 1,3
+- Expression cle "brunch lyon" : 958 clics, 29 913 impressions, position 4,6
 - Integration Google Search Console via Site Kit
 
 ### Performance et securite
@@ -110,14 +132,31 @@ Site en ligne : https://petite-pension.fr
 
 ---
 
-## Resultats SEO (28 derniers jours)
+## Resultats Google Search Console (duree de vie du site)
 
-| Metrique | Valeur |
+| Metrique | Valeur totale (16 mois) |
 |---|---|
-| Impressions totales | 2 466 |
-| Clics totaux | 64 |
-| Taux de clics moyen | 2,60% |
-| Position moyenne | 10,00 |
+| Clics totaux | 9 650 |
+| Impressions totales | 199 000 |
+| CTR moyen | 4,9 % |
+| Position moyenne | 9,7 |
+
+### Top requetes
+
+| Requete | Clics | Impressions | CTR | Position |
+|---|---|---|---|---|
+| la petite pension lyon | 1 084 | 2 588 | 41,9% | 1,3 |
+| brunch lyon | 958 | 29 913 | 3,2% | 4,6 |
+| petite pension | 775 | 2 885 | 26,9% | 1,4 |
+| la petite pension | 248 | 798 | 31,1% | 2,1 |
+| brunch croix rousse | 161 | 6 014 | 2,7% | 6,2 |
+
+### Sitemap XML
+- URL soumise : https://petite-pension.fr/sitemap_index.xml
+- Soumis le : 30 juillet 2025
+- Derniere lecture Google : 27 mai 2026
+- Pages decouvertes : 13
+- Statut : Operation effectuee
 
 ---
 
@@ -127,5 +166,8 @@ Carine - Developpeuse WordPress
 Lyon, France
 GitHub : https://github.com/mcdesmonteix
 
-Projet realise de A a Z : configuration hebergement, installation WordPress, 
-creation graphique, integration Elementor, optimisation SEO, mise en production.
+---
+
+Projet realise de A a Z : configuration hebergement, installation WordPress, creation graphique,
+integration Elementor, optimisation SEO, configuration Google Search Console, mise en production.
+Le site a ete exploite du juillet 2024 au 12 decembre 2025.
