@@ -1,11 +1,11 @@
 # Petite Pension - Site WordPress
 
-Site web pour le cafe-restaurant Petite Pension, Lyon 1er.
-Realise avec WordPress + Elementor.
+Site web pour le café-restaurant Petite Pension, Lyon 1er.
+Realisé avec WordPress + Elementor.
 
 Site en ligne : https://petite-pension.fr
 
-> Note : Le restaurant a ouvert le 10 octobre 2024 et a ferme ses portes le 12 decembre 2025. Les statistiques ci-dessous refletent l activite du site pendant sa periode d exploitation (juillet 2024 - decembre 2025).
+> Note : Le restaurant a été exploité du octobre 2024 décembre 2025. Les statistiques ci-dessous reflètent l'activite du site pendant sa période d'exploitation (octobre 2024 - decembre 2025).
 
 ---
 
@@ -153,12 +153,11 @@ La chute visible a partir de decembre 2025 correspond a la fermeture du restaura
 
 ### Sitemap XML
 - URL soumise : https://petite-pension.fr/sitemap_index.xml
-- Soumis le : 30 juillet 2025
 - Entreprise ouverte le : 10 octobre 2024
 - Entreprise liquidée le : 12 décembre 2025
-- Derniere lecture Google : 27 mai 2026
+- Dernière lecture Google : 27 mai 2026
 - Pages decouvertes : 13
-- Statut : Operation effectuee
+- Statut : Opération effectuée
 
 ---
 
@@ -170,6 +169,6 @@ GitHub : https://github.com/mcdesmonteix
 
 ---
 
-Projet realise de A a Z : configuration hebergement, installation WordPress, creation graphique,
-integration Elementor, optimisation SEO, configuration Google Search Console, mise en production.
-Le site a ete exploite du juillet 2024 au 12 decembre 2025.
+Projet realisé de A a Z : configuration hébergement OVH, installation WordPress, création graphique,
+intégration Elementor, optimisation SEO, configuration Google Search Console, mise en production.
+Le site a été exploité d'octobre 2024 à decembre 2025.
