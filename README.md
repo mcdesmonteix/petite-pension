@@ -3,11 +3,23 @@
 Site web pour le café-restaurant Petite Pension, Lyon 1er.
 Realisé avec WordPress + Elementor.
 
-Site en ligne : https://petite-pension.fr
-
-> Note : Le restaurant a été exploité du octobre 2024 décembre 2025. Les statistiques ci-dessous reflètent l'activite du site pendant sa période d'exploitation (octobre 2024 - decembre 2025).
+Archivé ici en HTML :https://mcdesmonteix.github.io/petite-pension/
 
 ---
+## Contexte et reprise du projet
+
+Le site initial avait été réalisé par un prestataire externe.
+À la prise en main, un audit complet a révélé de nombreux problèmes critiques :
+
+- **1 300 fichiers corrompus** identifiés et supprimés
+- **Backdoors** et **malwares** détectés et éliminés
+- Structure WordPress compromise, fichiers core altérés
+- Plugins obsolètes et vulnérables
+
+L'intégralité du site a été auditée, nettoyée et reconstruite 
+depuis une installation propre, avec mise en place d'une 
+sécurité renforcée (Wordfence, Solid Security, sauvegardes 
+automatiques WPvivid).
 
 ## Apercu du site
 
@@ -44,6 +56,7 @@ Site en ligne : https://petite-pension.fr
 
 ### Performances sur 16 mois (fev 2025 - mai 2026)
 La chute visible a partir de decembre 2025 correspond a la fermeture du restaurant.
+> Note : Le restaurant a été exploité d'octobre 2024 à décembre 2025. 
 ![Performances 16 mois](photos/gsc-performances-16mois.jpg)
 
 ### Detail des 4 metriques cles
