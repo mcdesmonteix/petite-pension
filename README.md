@@ -3,8 +3,6 @@
 Site web pour le café-restaurant Petite Pension, Lyon 1er.
 Realisé avec WordPress + Elementor.
 
-Archivé ici en HTML :https://mcdesmonteix.github.io/petite-pension/
-
 ---
 ## Contexte et reprise du projet
 
@@ -176,9 +174,9 @@ La chute visible a partir de decembre 2025 correspond a la fermeture du restaura
 
 ## Realise par
 
-Carine - Developpeuse WordPress
+Carine - Chef de projet web
 Lyon, France
-GitHub : https://github.com/mcdesmonteix
+GitHub Archivé ici en HTML :https://mcdesmonteix.github.io/petite-pension/
 
 ---
 
