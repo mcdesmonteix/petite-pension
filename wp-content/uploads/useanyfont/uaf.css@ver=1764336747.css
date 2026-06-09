@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'bitterextralight';
+					src: url('1385BitterExtraLight.woff2.html') format('woff2'),
+						url('1385BitterExtraLight.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bitterextralight{font-family: 'bitterextralight' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .widget-title, .site-title, .site-description, body, p, blockquote, li, a, strong, b, em, .menu-menu-1-container li a, .menu-menu-1-container li span, #menu-menu-1 li a, #menu-menu-1 li span, .menu-menu-mb-container li a, .menu-menu-mb-container li span, #menu-menu-mb li a, #menu-menu-mb li span{
+					font-family: 'bitterextralight' !important;
+				}
+		
