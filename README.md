@@ -27,6 +27,8 @@ automatiques WPvivid).
 <table>
   <tr>
     <td align="center"><img src="photos/homepage.jpg" width="100%"><br><sub>Page d'Accueil</sub></td>
+  <tr>
+  </tr>
     <td align="center"><img src="photos/apero.jpg" width="100%"><br><sub>Apéro Dînatoire</sub></td>
     <td align="center"><img src="photos/groupes.jpg" width="100%"><br><sub>Groupes et Privatisations</sub></td>
   </tr>
@@ -42,6 +44,8 @@ automatiques WPvivid).
 <table>
   <tr>
     <td align="center"><img src="photos/dashboard.jpg" width="100%"><br><sub>Tableau de bord WordPress</sub></td>
+  <tr>
+  </tr>
     <td align="center"><img src="photos/plugins.jpg" width="100%"><br><sub>Plugins installés</sub></td>
     <td align="center"><img src="photos/theme.jpg" width="100%"><br><sub>Thème Hello Elementor</sub></td>
   </tr>
