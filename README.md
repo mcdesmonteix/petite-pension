@@ -190,10 +190,5 @@ Positionné devant des concurrents établis comme Bartholomé et Le Desjeuneur s
 
 Carine — Chef de projet web
 Lyon, France
-GitHub — Archivé ici en HTML :https://mcdesmonteix.github.io/petite-pension/
-
----
-
-Projet réalisé de A à Z : configuration hébergement OVH, installation WordPress, création graphique,
-intégration Elementor, optimisation SEO, configuration Google Search Console, mise en production.
-Le site a été exploité d'octobre 2024 à décembre 2025.
+GitHub — Archivé ici en HTML :
+https://mcdesmonteix.github.io/petite-pension/
