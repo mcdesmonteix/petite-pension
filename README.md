@@ -111,7 +111,7 @@ La chute visible à partir de décembre 2025 correspond à la fermeture du resta
 
 ---
 
-## Competences demontrees
+## Competences demontrées
 
 ### Construction et design
 - Création de pages 100% visuelles avec Elementor (drag and drop)
