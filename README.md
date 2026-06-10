@@ -19,9 +19,9 @@ depuis une installation propre, avec mise en place d'une
 sécurité renforcée (Wordfence, Solid Security, sauvegardes 
 automatiques WPvivid).
 
-## Apercu du site
+## Aperçu du site
 
-### Page d'accueil
+### Page d'Accueil
 ![Page d accueil](photos/homepage.jpg)
 
 ### Apero Dinatoire
@@ -36,7 +36,7 @@ automatiques WPvivid).
 ### Tableau de bord WordPress
 ![Dashboard WordPress](photos/dashboard.jpg)
 
-### Plugins installes
+### Plugins installés
 ![Plugins](photos/plugins.jpg)
 
 ### Theme Hello Elementor
@@ -53,24 +53,24 @@ automatiques WPvivid).
 ## Google Search Console
 
 ### Performances sur 16 mois (fev 2025 - mai 2026)
-La chute visible a partir de decembre 2025 correspond a la fermeture du restaurant.
+La chute visible à partir de décembre 2025 correspond à la fermeture du restaurant.
 > Note : Le restaurant a été exploité d'octobre 2024 à décembre 2025. 
 ![Performances 16 mois](photos/gsc-performances-16mois.jpg)
 
-### Detail des 4 metriques cles
+### Détail des 4 métriques clés
 ![Metriques performances](photos/gsc-performances-metriques.jpg)
 
-### Requetes les plus frequentes
+### Requêtes les plus fréquentes
 ![Requetes principales](photos/gsc-requetes.jpg)
 
-### Sitemap XML soumis a Google
+### Sitemap XML soumis à Google
 ![Sitemap XML](photos/gsc-sitemap.jpg)
 
 ---
 
-## Technologies et outils utilises
+## Technologies et outils utilisés
 
-| Technologie | Role |
+| Technologie | Rôle |
 |---|---|
 | WordPress 7.0 | CMS principal |
 | Elementor v4.1.1 | Constructeur de pages drag and drop |
@@ -95,55 +95,55 @@ La chute visible a partir de decembre 2025 correspond a la fermeture du restaura
 
 ---
 
-## Pages creees (9 pages publiees)
+## Pages créées (9 pages publiées)
 
 | Page | Description |
 |---|---|
-| Home | Page d accueil - Cafe et Coworking |
-| Dejeuner et Brunch | Offre dejeuner, brunch, terrasse |
-| Apero Dinatoire | Afterwork et terrasse Lyon 1er |
-| Groupes et Privatisations | Privatisation pour evenements |
-| Actualites | Blog et evenements |
+| Home | Page d'accueil - Café et Coworking |
+| Déjeuner et Brunch | Offre déjeuner, brunch, terrasse |
+| Apéro Dinatoire | Afterwork et terrasse Lyon 1er |
+| Groupes et Privatisations | Privatisation pour évènements |
+| Actualités | Blog et évènements |
 | Contact | Adresse, horaires, formulaire |
-| Menu | Carte complete du restaurant |
-| Mentions Legales | Informations legales |
-| Declaration d Accessibilite | Accessibilite numerique |
+| Menu | Carte complète du restaurant |
+| Mentions Légales | Informations légales |
+| Déclaration d'Accessibilité | Accessibilité numérique |
 
 ---
 
-## Competences demonstrees
+## Competences demontrees
 
 ### Construction et design
-- Creation de pages 100% visuelles avec Elementor (drag and drop)
-- Integration de photos professionnelles du restaurant
+- Création de pages 100% visuelles avec Elementor (drag and drop)
+- Intégration de photos professionnelles du restaurant
 - Design responsive (mobile, tablette, desktop)
 - Personnalisation du theme Hello Elementor
-- Menus de navigation personnalises
+- Menus de navigation personnalisés
 - Integration icones reseaux sociaux (Instagram, Facebook, LinkedIn, Tripadvisor)
 
 ### SEO et Google Search Console
-- Configuration Yoast SEO : titres, meta-descriptions, expressions-cles
+- Configuration Yoast SEO : titres, méta-descriptions, expressions-clés
 - Soumission et suivi du sitemap XML dans Google Search Console
 - Suivi des performances de recherche (clics, impressions, CTR, position)
-- Expression cle "la petite pension lyon" : 1 084 clics, CTR 41,9%, position 1,3
-- Expression cle "brunch lyon" : 958 clics, 29 913 impressions, position 4,6
-- Integration Google Search Console via Site Kit
+- Expression clé "la petite pension lyon" : 1 084 clics, CTR 41,9%, position 1,3
+- Expression clé "brunch lyon" : 958 clics, 29 913 impressions, position 4,6
+- Intégration Google Search Console via Site Kit
 
-### Performance et securite
+### Performance et sécurité
 - Mise en cache avec WP Super Cache
 - Compression images WebP/AVIF automatique
-- Optimisation base de donnees avec WP-Optimize
+- Optimisation base de données avec WP-Optimize
 - Protection Wordfence (firewall, scan malware)
 - Sauvegardes automatiques avec WPvivid
 
 ### Communication et formulaires
-- Formulaire de contact WPForms (249 entrees recues)
-- Configuration WP Mail SMTP (809 emails envoyes)
-- Integration reseaux sociaux avec WP Social Ninja
+- Formulaire de contact WPForms (249 entrées reçues)
+- Configuration WP Mail SMTP (809 emails envoyés)
+- Intégration réseaux sociaux avec WP Social Ninja
 
 ---
 
-## Resultats Google Search Console (duree de vie du site)
+## Résultats Google Search Console (manque 4 mois)
 
 | Metrique | Valeur totale (16 mois) |
 |---|---|
@@ -152,15 +152,26 @@ La chute visible a partir de decembre 2025 correspond a la fermeture du restaura
 | CTR moyen | 4,9 % |
 | Position moyenne | 9,7 |
 
-### Top requetes
+### Top requêtes
 
-| Requete | Clics | Impressions | CTR | Position |
+| Requête | Clics | Impressions | CTR | Position |
 |---|---|---|---|---|
 | la petite pension lyon | 1 084 | 2 588 | 41,9% | 1,3 |
 | brunch lyon | 958 | 29 913 | 3,2% | 4,6 |
 | petite pension | 775 | 2 885 | 26,9% | 1,4 |
 | la petite pension | 248 | 798 | 31,1% | 2,1 |
 | brunch croix rousse | 161 | 6 014 | 2,7% | 6,2 |
+
+## Résultats SEO obtenus
+
+| Mot-clé | Position |
+|---|---|
+| café restaurant lyon 1 | #2 |
+| privatisation réservation groupe lyon 1 | #2 |
+| afterwork terrasse lyon 1 | #7 |
+| déjeuner brunch lyon 1 | #7 |
+
+Positionné devant des concurrents établis comme Bartholomé et Le Desjeuneur sur la requête principale.
 
 ### Sitemap XML
 - URL soumise : https://petite-pension.fr/sitemap_index.xml
@@ -172,7 +183,7 @@ La chute visible a partir de decembre 2025 correspond a la fermeture du restaura
 
 ---
 
-## Realise par
+## Realisé par
 
 Carine - Chef de projet web
 Lyon, France
