@@ -1,7 +1,7 @@
 # Petite Pension - Site WordPress
 
 Site web pour le café-restaurant Petite Pension, Lyon 1er.
-Realisé avec WordPress + Elementor.
+Réalisé avec WordPress + Elementor.
 
 ---
 ## Contexte et reprise du projet
@@ -13,6 +13,7 @@ Le site initial avait été réalisé par un prestataire externe.
 - **Backdoors** et **malwares** détectés et éliminés
 - Structure WordPress compromise, fichiers core altérés
 - Plugins obsolètes et vulnérables
+- **Typographie non conforme** : la police utilisée par le prestataire ne disposait pas des droits d'utilisation (risque juridique)
 
 L'intégralité du site a été auditée, nettoyée et reconstruite 
 depuis une installation propre, avec mise en place d'une 
@@ -21,50 +22,35 @@ automatiques WPvivid).
 
 ## Aperçu du site
 
-### Page d'Accueil
-![Page d accueil](photos/homepage.jpg)
+### Le site
 
-### Apero Dinatoire
-![Apero Dinatoire](photos/apero.jpg)
+<table>
+  <tr>
+    <td align="center"><img src="photos/homepage.jpg" width="100%"><br><sub>Page d'Accueil</sub></td>
+    <td align="center"><img src="photos/apero.jpg" width="100%"><br><sub>Apéro Dînatoire</sub></td>
+    <td align="center"><img src="photos/groupes.jpg" width="100%"><br><sub>Groupes et Privatisations</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="photos/contact.jpg" width="100%"><br><sub>Page Contact</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### Groupes et Privatisations
-![Groupes et Privatisations](photos/groupes.jpg)
+### Back-office et outils
 
-### Page Contact
-![Contact](photos/contact.jpg)
-
-### Tableau de bord WordPress
-![Dashboard WordPress](photos/dashboard.jpg)
-
-### Plugins installés
-![Plugins](photos/plugins.jpg)
-
-### Theme Hello Elementor
-![Theme](photos/theme.jpg)
-
-### Interface Elementor
-![Elementor](photos/elementor.jpg)
-
-### Dashboard Yoast SEO
-![Yoast SEO](photos/yoast-seo.jpg)
-
----
-
-## Google Search Console
-
-### Performances sur 16 mois (fev 2025 - mai 2026)
-La chute visible à partir de décembre 2025 correspond à la fermeture du restaurant.
-> Note : Le restaurant a été exploité d'octobre 2024 à décembre 2025. 
-![Performances 16 mois](photos/gsc-performances-16mois.jpg)
-
-### Détail des 4 métriques clés
-![Metriques performances](photos/gsc-performances-metriques.jpg)
-
-### Requêtes les plus fréquentes
-![Requetes principales](photos/gsc-requetes.jpg)
-
-### Sitemap XML soumis à Google
-![Sitemap XML](photos/gsc-sitemap.jpg)
+<table>
+  <tr>
+    <td align="center"><img src="photos/dashboard.jpg" width="100%"><br><sub>Tableau de bord WordPress</sub></td>
+    <td align="center"><img src="photos/plugins.jpg" width="100%"><br><sub>Plugins installés</sub></td>
+    <td align="center"><img src="photos/theme.jpg" width="100%"><br><sub>Thème Hello Elementor</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="photos/elementor.jpg" width="100%"><br><sub>Interface Elementor</sub></td>
+    <td align="center"><img src="photos/yoast-seo.jpg" width="100%"><br><sub>Dashboard Yoast SEO</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -74,23 +60,23 @@ La chute visible à partir de décembre 2025 correspond à la fermeture du resta
 |---|---|
 | WordPress 7.0 | CMS principal |
 | Elementor v4.1.1 | Constructeur de pages drag and drop |
-| Theme Hello Elementor | Theme leger optimise pour Elementor |
+| Thème Hello Elementor | Thème léger optimisé pour Elementor |
 | Yoast SEO | Optimisation SEO |
 | WPForms Lite | Formulaires de contact |
-| WP Mail SMTP | Envoi d emails via SMTP |
+| WP Mail SMTP | Envoi d'emails via SMTP |
 | Google Site Kit | Google Analytics et Search Console |
-| WP Social Ninja | Flux reseaux sociaux et avis |
+| WP Social Ninja | Flux réseaux sociaux et avis |
 | WPvivid Backup | Sauvegardes automatiques |
-| Wordfence Security | Securite et pare-feu |
-| Solid Security | Securite renforcee |
+| Wordfence Security | Sécurité et pare-feu |
+| Solid Security | Sécurité renforcée |
 | WP Super Cache | Mise en cache des pages |
 | WP-Optimize | Optimisation BDD et images |
 | Image Optimizer | Compression WebP/AVIF |
 | Redirection | Gestion redirections 301 et erreurs 404 |
-| Royal Elementor Addons | Widgets avances Elementor |
-| HT Mega Addons | 135+ widgets Elementor supplementaires |
-| Use Any Font | Polices personnalisees |
-| Metricool | Analytics et reseaux sociaux |
+| Royal Elementor Addons | Widgets avancés Elementor |
+| HT Mega Addons | 135+ widgets Elementor supplémentaires |
+| Use Any Font | Polices personnalisées |
+| Metricool | Analytics et réseaux sociaux |
 | Akismet | Protection anti-spam |
 
 ---
@@ -101,7 +87,7 @@ La chute visible à partir de décembre 2025 correspond à la fermeture du resta
 |---|---|
 | Home | Page d'accueil - Café et Coworking |
 | Déjeuner et Brunch | Offre déjeuner, brunch, terrasse |
-| Apéro Dinatoire | Afterwork et terrasse Lyon 1er |
+| Apéro Dînatoire | Afterwork et terrasse Lyon 1er |
 | Groupes et Privatisations | Privatisation pour évènements |
 | Actualités | Blog et évènements |
 | Contact | Adresse, horaires, formulaire |
@@ -111,15 +97,20 @@ La chute visible à partir de décembre 2025 correspond à la fermeture du resta
 
 ---
 
-## Competences demontrées
+## Compétences démontrées
 
 ### Construction et design
 - Création de pages 100% visuelles avec Elementor (drag and drop)
 - Intégration de photos professionnelles du restaurant
 - Design responsive (mobile, tablette, desktop)
-- Personnalisation du theme Hello Elementor
+- Personnalisation du thème Hello Elementor
 - Menus de navigation personnalisés
-- Integration icones reseaux sociaux (Instagram, Facebook, LinkedIn, Tripadvisor)
+- Intégration icônes réseaux sociaux (Instagram, Facebook, LinkedIn, Tripadvisor)
+- Remplacement de la typographie par une police aux droits d'utilisation acquis (mise en conformité juridique)
+- Photos du site réalisées par mes soins (également réutilisées sur les réseaux sociaux)
+- Création d'une véritable page Menu avec boutons interactifs
+- Ajout d'un bouton d'appel direct du restaurant
+- Création des pages Mentions Légales et Déclaration d'Accessibilité
 
 ### SEO et Google Search Console
 - Configuration Yoast SEO : titres, méta-descriptions, expressions-clés
@@ -128,6 +119,8 @@ La chute visible à partir de décembre 2025 correspond à la fermeture du resta
 - Expression clé "la petite pension lyon" : 1 084 clics, CTR 41,9%, position 1,3
 - Expression clé "brunch lyon" : 958 clics, 29 913 impressions, position 4,6
 - Intégration Google Search Console via Site Kit
+- Réécriture de l'ensemble des textes (plus courts et optimisés pour le SEO)
+- Renseignement des balises meta SEO (alt) sur les photos
 
 ### Performance et sécurité
 - Mise en cache avec WP Super Cache
@@ -145,12 +138,18 @@ La chute visible à partir de décembre 2025 correspond à la fermeture du resta
 
 ## Résultats Google Search Console (manque 4 mois)
 
-| Metrique | Valeur totale (16 mois) |
+| Métrique | Valeur totale (16 mois) |
 |---|---|
 | Clics totaux | 9 650 |
 | Impressions totales | 199 000 |
 | CTR moyen | 4,9 % |
 | Position moyenne | 9,7 |
+
+> Note : Le restaurant a été exploité d'octobre 2024 à décembre 2025. La chute visible à partir de décembre 2025 correspond à sa fermeture.
+
+![Performances sur 16 mois (févr. 2025 - mai 2026)](photos/gsc-performances-16mois.jpg)
+
+![Détail des 4 métriques clés](photos/gsc-performances-metriques.jpg)
 
 ### Top requêtes
 
@@ -161,6 +160,8 @@ La chute visible à partir de décembre 2025 correspond à la fermeture du resta
 | petite pension | 775 | 2 885 | 26,9% | 1,4 |
 | la petite pension | 248 | 798 | 31,1% | 2,1 |
 | brunch croix rousse | 161 | 6 014 | 2,7% | 6,2 |
+
+![Requêtes les plus fréquentes](photos/gsc-requetes.jpg)
 
 ## Résultats SEO obtenus
 
@@ -178,19 +179,21 @@ Positionné devant des concurrents établis comme Bartholomé et Le Desjeuneur s
 - Entreprise ouverte le : 10 octobre 2024
 - Entreprise liquidée le : 12 décembre 2025
 - Dernière lecture Google : 27 mai 2026
-- Pages decouvertes : 13
+- Pages découvertes : 13
 - Statut : Opération effectuée
 
 ---
 
-## Realisé par
+![Sitemap XML soumis à Google](photos/gsc-sitemap.jpg)
 
-Carine - Chef de projet web
+## Réalisé par
+
+Carine — Chef de projet web
 Lyon, France
-GitHub Archivé ici en HTML :https://mcdesmonteix.github.io/petite-pension/
+GitHub — Archivé ici en HTML :https://mcdesmonteix.github.io/petite-pension/
 
 ---
 
-Projet realisé de A a Z : configuration hébergement OVH, installation WordPress, création graphique,
+Projet réalisé de A à Z : configuration hébergement OVH, installation WordPress, création graphique,
 intégration Elementor, optimisation SEO, configuration Google Search Console, mise en production.
-Le site a été exploité d'octobre 2024 à decembre 2025.
+Le site a été exploité d'octobre 2024 à décembre 2025.
