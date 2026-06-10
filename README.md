@@ -32,7 +32,10 @@ automatiques WPvivid).
   </tr>
     <td align="center"><img src="photos/groupes_privatisations.png" width="100%"><br><sub>Groupes et Privatisations</sub></td>
     <td align="center"><img src="photos/contact.jpg" width="100%"><br><sub>Page Contact</sub></td>
-    <td></td>
+  </tr>
+</tr>
+    <td align="center"><img src="photos/menus.png" width="100%"><br><sub>Menu avec Boutons</sub></td>
+    <td align="center"><img src="photos/avis.png" width="100%"><br><sub>Derniers Avis Google</sub></td>
   </tr>
 </table>
 
